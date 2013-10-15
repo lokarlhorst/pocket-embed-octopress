@@ -16,7 +16,7 @@ Copy ```pocket_small.png``` to ```youroctopressdirectory/source/images```
 
 ## Usage
 
-``` {% raw %} {% pocket ENTRYNUMBER %} {% endraw %}```
+```{% pocket ENTRYNUMBER %}```
 
 You can get the Pocket entrynumber by opening the link in Pocket. It is the long number in the adress bar of your browser.
 
