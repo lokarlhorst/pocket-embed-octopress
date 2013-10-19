@@ -2,7 +2,7 @@
 
 ## Installation
 
-Make sure you have installed ```pocket`` Gem and Rubygems.
+Make sure you have installed ```pocket``` Gem  ```json``` Gem and Rubygems.
 
 ```bash
 gem install pocket-ruby
@@ -19,6 +19,10 @@ Copy ```pocket_small.png``` to ```youroctopressdirectory/source/images```
 ```{% pocket ENTRYNUMBER %}```
 
 You can get the Pocket entrynumber by opening the link in Pocket. It is the long number in the adress bar of your browser.
+
+## More information and live demo
+
+[Demo @ my blog](http://sots.name/blog/2013/10/08/octopress-plugin-to-embed-pocket-links-with-shortcode/)
 
 ## License
 
